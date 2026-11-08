@@ -5,10 +5,13 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-White-Label-Portal-Customization/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-White-Label-Portal-Customization?style=social" alt="GitHub stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-White-Label-Portal-Customization/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-White-Label-Portal-Customization?style=social" alt="GitHub forks" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg" alt="License: CC0-1.0" /></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 > 🌟 **A curated directory of top White-Label Portal Customization platforms** — featuring commercial SaaS solutions, self-hosted open-source software, client dashboards, branded document-sharing hubs, and client collaboration portals.
@@ -28,6 +31,8 @@
   - [Detailed Open-Source Profiles](#-detailed-open-source-profiles)
 - [📊 Feature Matrix & Architectural Overview](#-feature-matrix--architectural-overview)
 - [🔍 Key Selection Criteria for White-Label Portals](#-key-selection-criteria-for-white-label-portals)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -204,6 +209,22 @@ When evaluating a white-label client portal for your business, consider the foll
 3. **Data Security & Regulatory Compliance 🔐**: Regulated industries (legal, healthcare, accounting, fintech) require SOC 2 Type II compliance, HIPAA BAA agreements, GDPR compliance, and end-to-end encryption at rest and in transit.
 4. **Client Collaboration vs. File Sharing 📂**: Choose between pure-play file exchange tools (Onehub, ProjectSend, ClientShare) and full-lifecycle business suites featuring tasks, e-signatures, and invoicing (SuiteDash, Assembly, Moxo).
 5. **Total Cost of Ownership (TCO) 💵**: Balance predictable flat-rate pricing (SuiteDash, self-hosted open-source) against per-user or seat-based licensing models as your client volume scales.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using this repository! If this curated guide saved you time or helped you choose the right white-label portal platform:
+
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork and share** it with your fellow developers, agency peers, and teams.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing maintenance and new curated additions, please consider sponsoring via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Your support is greatly appreciated!
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-White-Label-Portal-Customization&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-White-Label-Portal-Customization&type=date&legend=top-left)
 
 ---
 
