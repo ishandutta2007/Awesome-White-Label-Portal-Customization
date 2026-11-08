@@ -123,7 +123,7 @@ Self-hosted, community-driven client portal platforms offering complete code own
 
 ### 🌟 Open-Source Solutions Comparison
 
-*The table below is sorted by GitHub Stars_Count in descending order:*
+*The table below is sorted by GitHub_Stars_Count in descending order:*
 
 | Repository 📦 | GitHub_Stars 🌟 | Primary Stack 💻 | License 📜 | Deployment 🐳 | Key Highlights 💡 |
 |---|---|---|---|---|---|
