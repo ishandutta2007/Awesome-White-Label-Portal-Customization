@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-White-Label-Portal-Customization/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-White-Label-Portal-Customization?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-White-Label-Portal-Customization/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-White-Label-Portal-Customization?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-White-Label-Portal-Customization/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-White-Label-Portal-Customization?style=social" alt="GitHub forks" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg" alt="License: CC0-1.0" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
@@ -123,9 +123,9 @@ Self-hosted, community-driven client portal platforms offering complete code own
 
 ### 🌟 Open-Source Solutions Comparison
 
-*The table below is sorted by GitHub star count in descending order:*
+*The table below is sorted by GitHub Stars_Count in descending order:*
 
-| Repository 📦 | GitHub Stars 🌟 | Primary Stack 💻 | License 📜 | Deployment 🐳 | Key Highlights 💡 |
+| Repository 📦 | GitHub_Stars 🌟 | Primary Stack 💻 | License 📜 | Deployment 🐳 | Key Highlights 💡 |
 |---|---|---|---|---|---|
 | **[projectsend/projectsend](https://github.com/projectsend/projectsend)** | [![Stars](https://img.shields.io/github/stars/projectsend/projectsend?style=social&color=white)](https://github.com/projectsend/projectsend/stargazers) | PHP / MySQL / Bootstrap | GPL-2.0 | Docker / LAMP Stack | Mature self-hosted file sharing client portal with fine-grained access control and custom branding |
 | **[itflow-org/itflow](https://github.com/itflow-org/itflow)** | [![Stars](https://img.shields.io/github/stars/itflow-org/itflow?style=social&color=white)](https://github.com/itflow-org/itflow/stargazers) | PHP / MariaDB / Tailwind CSS | GPL-3.0 | Docker / Web Server | All-in-one MSP & IT client portal covering ticketing, invoicing, password sharing, and asset tracking |
